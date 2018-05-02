@@ -18,7 +18,6 @@ Security Vulnerabilities:
  > Denial of service or RCE from libxml2 and libxslt
  > Nokogiri gem contains several vulnerabilities in libxml2 and libxslt
  > Nokogiri gem contains two upstream vulnerabilities in libxslt 1.1.29
- > Security Notes
  > Nokogiri gem, via libxml, is affected by DoS and RCE vulnerabilities
 Reference: https://www.versioneye.com/ruby/nokogiri/1.6.1
 ```
