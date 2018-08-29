@@ -1,6 +1,10 @@
 # gem_eyes
 Little python3 script to search for security vulnerabilities and out-dated dependencies in rubygems
 
+# Warning
+Outdated Repository. Unfortunately the data source is no longer active.
+
+Repository kept online for educational purposes and to measure the quality of my codes in the future
 
 ## Instalation
 ```
